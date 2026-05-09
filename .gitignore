@@ -1,0 +1,21 @@
+# Large datasets
+train/
+test/
+
+# CSV files
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
